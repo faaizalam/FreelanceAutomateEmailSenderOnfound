@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
      // Set to true if you're using a secure connection (TLS/SSL)
     auth: {
       user: 'usamaalam1999@gmail.com', // Your Mailgun SMTP username
-      pass: 'xtrubbpzhwtmltmp' // Your Mailgun SMTP password
+      // pass: 'xtrubbpzhwtmltmp' // Your Mailgun SMTP password
     }
   });
 
